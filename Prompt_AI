@@ -1,0 +1,18 @@
+kết quả kiểm tra của 5 sinh viên trong 3 tuần học lập trình:
+
+| Sinh viên | Tuần 1 | Tuần 2 | Tuần 3 |
+| --- | --- | --- | --- |
+| An | 8 | 7 | 5 |
+| Bình | 7 | 6 | 4 |
+| Chi | 9 | 8 | 8 |
+| Dũng | 6 | 5 | 3 |
+| Hà | 8 | 8 | 7 |
+
+dóng vai là giảng viên tận tụy, bạn nhận thấy kết quả của một số sinh viên đang giảm dần và muốn phân tích dữ liệu, từ đó đưa ra biện pháp hỗ trợ học tập.
+phân tích, trình bày tuần tự theo từng bước 
+b1 Tính mức tăng, giảm điểm của từng sinh viên.
+b2 Xác định sinh viên có dấu hiệu sa sút.
+b3 So sánh kết quả học tập giữa các sinh viên: Bảng phân tích kết quả của 5 sinh viên.
+b4 Đưa ra những vấn đề cần giảng viên xác minh thêm: Ba nhận định quan trọng từ dữ liệu.
+b5 Đề xuất giải pháp cải thiện kết quả học tập: Ba giải pháp hỗ trợ học tập cụ thể.
+yêu cầu: không dài dòng, hãy ngắn gọn
